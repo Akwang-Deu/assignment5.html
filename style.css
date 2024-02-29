@@ -1,0 +1,102 @@
+#body{
+    background-color: rgb(233, 142, 157);
+    
+
+}
+.container{
+    border: 1px;
+    background-color: white;
+    margin: 5%;
+    padding: 40px;
+    height: 6000px;
+
+
+}
+.nav{
+    color: black;
+    text-align-last: center;
+
+}
+.Top{
+    color: rgb(206, 98, 116);
+
+}
+button{
+    background-color: blue;
+    color: white;
+
+}
+#headphone{
+    
+    width: 400px;
+    height: 400px;
+    margin: 2%;
+    text-align-last: center;
+    
+    
+
+}
+.images{
+    display: flex;
+    
+    text-align: center;
+
+}
+.images2{
+    display: flex;
+    text-align: center;
+
+}
+.images3{
+    display: flex;
+    text-align: center;
+
+}
+.iner-container{
+    display: flex;
+    align-content: flex-end;
+}
+#form{
+    background-color: rgb(233, 142, 157);
+    border: 1px;
+    margin: 10%;
+    padding: 10%;
+
+}
+.headphone{
+    background-color: rgb(233, 142, 157);
+    text-align-last: center;
+    
+
+}
+.toys{
+    display: flex;
+    align-items: center;
+
+}
+
+
+
+#Blog{
+    text-align-last: center;
+    margin-left: auto;
+
+    
+
+
+
+}
+
+    
+
+
+
+
+    
+    
+    
+    
+
+
+
+
